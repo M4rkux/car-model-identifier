@@ -1,0 +1,17 @@
+{
+  "name": "playwright-cd",
+  "version": "1.0.0",
+  "author": "",
+  "main": "index.js",
+  "dependencies": {
+    "playwright-core": "^1.29.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.29.1",
+    "@types/node": "^18.11.18"
+  },
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {}
+}

@@ -1,0 +1,252 @@
+acura,mdx,https://shop.canadadrives.ca/cars/bc?make=acura&model=mdx
+acura,rdx,https://shop.canadadrives.ca/cars/bc?make=acura&model=rdx
+acura,tlx,https://shop.canadadrives.ca/cars/bc?make=acura&model=tlx
+alfa romeo,stelvio,https://shop.canadadrives.ca/cars/bc?make=alfa romeo&model=stelvio
+audi,a3,https://shop.canadadrives.ca/cars/bc?make=audi&model=a3
+audi,a4,https://shop.canadadrives.ca/cars/bc?make=audi&model=a4
+audi,a5,https://shop.canadadrives.ca/cars/bc?make=audi&model=a5
+audi,a6,https://shop.canadadrives.ca/cars/bc?make=audi&model=a6
+audi,a7,https://shop.canadadrives.ca/cars/bc?make=audi&model=a7
+audi,q3,https://shop.canadadrives.ca/cars/bc?make=audi&model=q3
+audi,q5,https://shop.canadadrives.ca/cars/bc?make=audi&model=q5
+audi,q7,https://shop.canadadrives.ca/cars/bc?make=audi&model=q7
+audi,s3,https://shop.canadadrives.ca/cars/bc?make=audi&model=s3
+audi,s4,https://shop.canadadrives.ca/cars/bc?make=audi&model=s4
+audi,s5,https://shop.canadadrives.ca/cars/bc?make=audi&model=s5
+audi,sq5,https://shop.canadadrives.ca/cars/bc?make=audi&model=sq5
+audi,tt,https://shop.canadadrives.ca/cars/bc?make=audi&model=tt
+bmw,2 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=2 series
+bmw,3 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=3 series
+bmw,4 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=4 series
+bmw,5 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=5 series
+bmw,6 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=6 series
+bmw,x1,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x1
+bmw,x2,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x2
+bmw,x3,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x3
+bmw,x4,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x4
+bmw,x5,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x5
+bmw,x6,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x6
+buick,enclave,https://shop.canadadrives.ca/cars/bc?make=buick&model=enclave
+buick,encore,https://shop.canadadrives.ca/cars/bc?make=buick&model=encore
+buick,envision,https://shop.canadadrives.ca/cars/bc?make=buick&model=envision
+buick,regal,https://shop.canadadrives.ca/cars/bc?make=buick&model=regal
+buick,verano,https://shop.canadadrives.ca/cars/bc?make=buick&model=verano
+cadillac,ats sedan,https://shop.canadadrives.ca/cars/bc?make=cadillac&model=ats sedan
+cadillac,srx,https://shop.canadadrives.ca/cars/bc?make=cadillac&model=srx
+cadillac,xt5,https://shop.canadadrives.ca/cars/bc?make=cadillac&model=xt5
+chevrolet,bolt,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=bolt
+chevrolet,camaro,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=camaro
+chevrolet,cruze,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=cruze
+chevrolet,cruze limited,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=cruze limited
+chevrolet,equinox,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=equinox
+chevrolet,impala,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=impala
+chevrolet,malibu,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=malibu
+chevrolet,spark,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=spark
+chevrolet,traverse,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=traverse
+chevrolet,trax,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=trax
+chevrolet,volt,https://shop.canadadrives.ca/cars/bc?make=chevrolet&model=volt
+chrysler,200,https://shop.canadadrives.ca/cars/bc?make=chrysler&model=200
+chrysler,300,https://shop.canadadrives.ca/cars/bc?make=chrysler&model=300
+chrysler,pacifica,https://shop.canadadrives.ca/cars/bc?make=chrysler&model=pacifica
+chrysler,town & country,https://shop.canadadrives.ca/cars/bc?make=chrysler&model=town & country
+dodge,challenger,https://shop.canadadrives.ca/cars/bc?make=dodge&model=challenger
+dodge,charger,https://shop.canadadrives.ca/cars/bc?make=dodge&model=charger
+dodge,dart,https://shop.canadadrives.ca/cars/bc?make=dodge&model=dart
+dodge,durango,https://shop.canadadrives.ca/cars/bc?make=dodge&model=durango
+dodge,grand caravan,https://shop.canadadrives.ca/cars/bc?make=dodge&model=grand caravan
+dodge,journey,https://shop.canadadrives.ca/cars/bc?make=dodge&model=journey
+fiat,500l,https://shop.canadadrives.ca/cars/bc?make=fiat&model=500l
+ford,ecosport,https://shop.canadadrives.ca/cars/bc?make=ford&model=ecosport
+ford,edge,https://shop.canadadrives.ca/cars/bc?make=ford&model=edge
+ford,escape,https://shop.canadadrives.ca/cars/bc?make=ford&model=escape
+ford,expedition,https://shop.canadadrives.ca/cars/bc?make=ford&model=expedition
+ford,explorer,https://shop.canadadrives.ca/cars/bc?make=ford&model=explorer
+ford,f150,https://shop.canadadrives.ca/cars/bc?make=ford&model=f150
+ford,fiesta,https://shop.canadadrives.ca/cars/bc?make=ford&model=fiesta
+ford,focus,https://shop.canadadrives.ca/cars/bc?make=ford&model=focus
+ford,fusion,https://shop.canadadrives.ca/cars/bc?make=ford&model=fusion
+ford,mustang,https://shop.canadadrives.ca/cars/bc?make=ford&model=mustang
+ford,taurus,https://shop.canadadrives.ca/cars/bc?make=ford&model=taurus
+genesis,g70,https://shop.canadadrives.ca/cars/bc?make=genesis&model=g70
+gmc,acadia,https://shop.canadadrives.ca/cars/bc?make=gmc&model=acadia
+gmc,sierra 1500,https://shop.canadadrives.ca/cars/bc?make=gmc&model=sierra 1500
+gmc,sierra limited 1500,https://shop.canadadrives.ca/cars/bc?make=gmc&model=sierra limited 1500
+gmc,terrain,https://shop.canadadrives.ca/cars/bc?make=gmc&model=terrain
+honda,accord,https://shop.canadadrives.ca/cars/bc?make=honda&model=accord
+honda,civic,https://shop.canadadrives.ca/cars/bc?make=honda&model=civic
+honda,cr-v,https://shop.canadadrives.ca/cars/bc?make=honda&model=cr-v
+honda,fit,https://shop.canadadrives.ca/cars/bc?make=honda&model=fit
+honda,hr-v,https://shop.canadadrives.ca/cars/bc?make=honda&model=hr-v
+honda,insight,https://shop.canadadrives.ca/cars/bc?make=honda&model=insight
+honda,odyssey,https://shop.canadadrives.ca/cars/bc?make=honda&model=odyssey
+honda,pilot,https://shop.canadadrives.ca/cars/bc?make=honda&model=pilot
+hyundai,accent,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=accent
+hyundai,elantra,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=elantra
+hyundai,elantra gt,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=elantra gt
+hyundai,ioniq,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=ioniq
+hyundai,ioniq ev,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=ioniq ev
+hyundai,kona,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=kona
+hyundai,kona ev,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=kona ev
+hyundai,palisade,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=palisade
+hyundai,santa fe,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=santa fe
+hyundai,santa fe sport,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=santa fe sport
+hyundai,santa fe xl,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=santa fe xl
+hyundai,sonata,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=sonata
+hyundai,tucson,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=tucson
+hyundai,veloster,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=veloster
+hyundai,venue,https://shop.canadadrives.ca/cars/bc?make=hyundai&model=venue
+infiniti,q50,https://shop.canadadrives.ca/cars/bc?make=infiniti&model=q50
+infiniti,q60,https://shop.canadadrives.ca/cars/bc?make=infiniti&model=q60
+infiniti,qx30,https://shop.canadadrives.ca/cars/bc?make=infiniti&model=qx30
+infiniti,qx50,https://shop.canadadrives.ca/cars/bc?make=infiniti&model=qx50
+infiniti,qx60,https://shop.canadadrives.ca/cars/bc?make=infiniti&model=qx60
+infiniti,qx70,https://shop.canadadrives.ca/cars/bc?make=infiniti&model=qx70
+infiniti,qx80,https://shop.canadadrives.ca/cars/bc?make=infiniti&model=qx80
+jaguar,e-pace,https://shop.canadadrives.ca/cars/bc?make=jaguar&model=e-pace
+jaguar,f-pace,https://shop.canadadrives.ca/cars/bc?make=jaguar&model=f-pace
+jaguar,xf,https://shop.canadadrives.ca/cars/bc?make=jaguar&model=xf
+jeep,cherokee,https://shop.canadadrives.ca/cars/bc?make=jeep&model=cherokee
+jeep,compass,https://shop.canadadrives.ca/cars/bc?make=jeep&model=compass
+jeep,compass 2017.5,https://shop.canadadrives.ca/cars/bc?make=jeep&model=compass 2017.5
+jeep,grand cherokee,https://shop.canadadrives.ca/cars/bc?make=jeep&model=grand cherokee
+jeep,patriot,https://shop.canadadrives.ca/cars/bc?make=jeep&model=patriot
+jeep,renegade,https://shop.canadadrives.ca/cars/bc?make=jeep&model=renegade
+jeep,wrangler,https://shop.canadadrives.ca/cars/bc?make=jeep&model=wrangler
+kia,forte,https://shop.canadadrives.ca/cars/bc?make=kia&model=forte
+kia,forte5,https://shop.canadadrives.ca/cars/bc?make=kia&model=forte5
+kia,optima,https://shop.canadadrives.ca/cars/bc?make=kia&model=optima
+kia,rio,https://shop.canadadrives.ca/cars/bc?make=kia&model=rio
+kia,sedona,https://shop.canadadrives.ca/cars/bc?make=kia&model=sedona
+kia,seltos,https://shop.canadadrives.ca/cars/bc?make=kia&model=seltos
+kia,sorento,https://shop.canadadrives.ca/cars/bc?make=kia&model=sorento
+kia,soul,https://shop.canadadrives.ca/cars/bc?make=kia&model=soul
+kia,soul ev,https://shop.canadadrives.ca/cars/bc?make=kia&model=soul ev
+kia,sportage,https://shop.canadadrives.ca/cars/bc?make=kia&model=sportage
+kia,stinger,https://shop.canadadrives.ca/cars/bc?make=kia&model=stinger
+land rover,discovery sport,https://shop.canadadrives.ca/cars/bc?make=land rover&model=discovery sport
+land rover,lr4,https://shop.canadadrives.ca/cars/bc?make=land rover&model=lr4
+land rover,range rover,https://shop.canadadrives.ca/cars/bc?make=land rover&model=range rover
+land rover,range rover evoque,https://shop.canadadrives.ca/cars/bc?make=land rover&model=range rover evoque
+land rover,range rover sport,https://shop.canadadrives.ca/cars/bc?make=land rover&model=range rover sport
+lexus,es350,https://shop.canadadrives.ca/cars/bc?make=lexus&model=es350
+lexus,is-series,https://shop.canadadrives.ca/cars/bc?make=lexus&model=is-series
+lexus,rx350,https://shop.canadadrives.ca/cars/bc?make=lexus&model=rx350
+lincoln,mkc,https://shop.canadadrives.ca/cars/bc?make=lincoln&model=mkc
+lincoln,mkx,https://shop.canadadrives.ca/cars/bc?make=lincoln&model=mkx
+lincoln,mkz,https://shop.canadadrives.ca/cars/bc?make=lincoln&model=mkz
+lincoln,nautilus,https://shop.canadadrives.ca/cars/bc?make=lincoln&model=nautilus
+mazda,cx-3,https://shop.canadadrives.ca/cars/bc?make=mazda&model=cx-3
+mazda,cx-30,https://shop.canadadrives.ca/cars/bc?make=mazda&model=cx-30
+mazda,cx-5,https://shop.canadadrives.ca/cars/bc?make=mazda&model=cx-5
+mazda,cx-5 2016.5,https://shop.canadadrives.ca/cars/bc?make=mazda&model=cx-5 2016.5
+mazda,cx-9,https://shop.canadadrives.ca/cars/bc?make=mazda&model=cx-9
+mazda,mazda3,https://shop.canadadrives.ca/cars/bc?make=mazda&model=mazda3
+mazda,mazda3 sport,https://shop.canadadrives.ca/cars/bc?make=mazda&model=mazda3 sport
+mazda,mazda6,https://shop.canadadrives.ca/cars/bc?make=mazda&model=mazda6
+mazda,mx5,https://shop.canadadrives.ca/cars/bc?make=mazda&model=mx5
+mercedes-benz,a-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=a-class
+mercedes-benz,b-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=b-class
+mercedes-benz,c-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=c-class
+mercedes-benz,cla-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=cla-class
+mercedes-benz,e-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=e-class
+mercedes-benz,gla,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=gla
+mercedes-benz,gla-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=gla-class
+mercedes-benz,glc-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=glc-class
+mercedes-benz,gle-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=gle-class
+mercedes-benz,glk-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=glk-class
+mercedes-benz,m-class,https://shop.canadadrives.ca/cars/bc?make=mercedes-benz&model=m-class
+mini,3 door,https://shop.canadadrives.ca/cars/bc?make=mini&model=3 door
+mini,3 door hardtop,https://shop.canadadrives.ca/cars/bc?make=mini&model=3 door hardtop
+mini,5 door hardtop,https://shop.canadadrives.ca/cars/bc?make=mini&model=5 door hardtop
+mini,clubman,https://shop.canadadrives.ca/cars/bc?make=mini&model=clubman
+mini,cooper,https://shop.canadadrives.ca/cars/bc?make=mini&model=cooper
+mini,countryman,https://shop.canadadrives.ca/cars/bc?make=mini&model=countryman
+mini,hatchback,https://shop.canadadrives.ca/cars/bc?make=mini&model=hatchback
+mitsubishi,eclipse cross,https://shop.canadadrives.ca/cars/bc?make=mitsubishi&model=eclipse cross
+mitsubishi,lancer,https://shop.canadadrives.ca/cars/bc?make=mitsubishi&model=lancer
+mitsubishi,mirage,https://shop.canadadrives.ca/cars/bc?make=mitsubishi&model=mirage
+mitsubishi,outlander,https://shop.canadadrives.ca/cars/bc?make=mitsubishi&model=outlander
+mitsubishi,rvr,https://shop.canadadrives.ca/cars/bc?make=mitsubishi&model=rvr
+nissan,altima,https://shop.canadadrives.ca/cars/bc?make=nissan&model=altima
+nissan,juke,https://shop.canadadrives.ca/cars/bc?make=nissan&model=juke
+nissan,kicks,https://shop.canadadrives.ca/cars/bc?make=nissan&model=kicks
+nissan,leaf,https://shop.canadadrives.ca/cars/bc?make=nissan&model=leaf
+nissan,maxima,https://shop.canadadrives.ca/cars/bc?make=nissan&model=maxima
+nissan,micra,https://shop.canadadrives.ca/cars/bc?make=nissan&model=micra
+nissan,murano,https://shop.canadadrives.ca/cars/bc?make=nissan&model=murano
+nissan,pathfinder,https://shop.canadadrives.ca/cars/bc?make=nissan&model=pathfinder
+nissan,qashqai,https://shop.canadadrives.ca/cars/bc?make=nissan&model=qashqai
+nissan,rogue,https://shop.canadadrives.ca/cars/bc?make=nissan&model=rogue
+nissan,sentra,https://shop.canadadrives.ca/cars/bc?make=nissan&model=sentra
+nissan,titan,https://shop.canadadrives.ca/cars/bc?make=nissan&model=titan
+nissan,versa note,https://shop.canadadrives.ca/cars/bc?make=nissan&model=versa note
+polestar,polestar 2,https://shop.canadadrives.ca/cars/bc?make=polestar&model=polestar 2
+porsche,cayenne,https://shop.canadadrives.ca/cars/bc?make=porsche&model=cayenne
+porsche,macan,https://shop.canadadrives.ca/cars/bc?make=porsche&model=macan
+ram,1500,https://shop.canadadrives.ca/cars/bc?make=ram&model=1500
+ram,2500,https://shop.canadadrives.ca/cars/bc?make=ram&model=2500
+subaru,ascent,https://shop.canadadrives.ca/cars/bc?make=subaru&model=ascent
+subaru,brz,https://shop.canadadrives.ca/cars/bc?make=subaru&model=brz
+subaru,crosstrek,https://shop.canadadrives.ca/cars/bc?make=subaru&model=crosstrek
+subaru,forester,https://shop.canadadrives.ca/cars/bc?make=subaru&model=forester
+subaru,impreza,https://shop.canadadrives.ca/cars/bc?make=subaru&model=impreza
+subaru,outback,https://shop.canadadrives.ca/cars/bc?make=subaru&model=outback
+subaru,wrx,https://shop.canadadrives.ca/cars/bc?make=subaru&model=wrx
+subaru,xv crosstrek,https://shop.canadadrives.ca/cars/bc?make=subaru&model=xv crosstrek
+tesla,model 3,https://shop.canadadrives.ca/cars/bc?make=tesla&model=model 3
+tesla,model s,https://shop.canadadrives.ca/cars/bc?make=tesla&model=model s
+tesla,model x,https://shop.canadadrives.ca/cars/bc?make=tesla&model=model x
+tesla,model y,https://shop.canadadrives.ca/cars/bc?make=tesla&model=model y
+toyota,4runner,https://shop.canadadrives.ca/cars/bc?make=toyota&model=4runner
+toyota,c-hr,https://shop.canadadrives.ca/cars/bc?make=toyota&model=c-hr
+toyota,camry,https://shop.canadadrives.ca/cars/bc?make=toyota&model=camry
+toyota,corolla,https://shop.canadadrives.ca/cars/bc?make=toyota&model=corolla
+toyota,highlander,https://shop.canadadrives.ca/cars/bc?make=toyota&model=highlander
+toyota,rav4,https://shop.canadadrives.ca/cars/bc?make=toyota&model=rav4
+toyota,rav4,https://shop.canadadrives.ca/cars/bc?make=toyota&model=rav4
+toyota,sienna,https://shop.canadadrives.ca/cars/bc?make=toyota&model=sienna
+toyota,venza,https://shop.canadadrives.ca/cars/bc?make=toyota&model=venza
+toyota,yaris,https://shop.canadadrives.ca/cars/bc?make=toyota&model=yaris
+volkswagen,atlas,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=atlas
+volkswagen,atlas cross sport,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=atlas cross sport
+volkswagen,beetle,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=beetle
+volkswagen,e-golf,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=e-golf
+volkswagen,golf,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=golf
+volkswagen,golf r,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=golf r
+volkswagen,golf sportwagen,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=golf sportwagen
+volkswagen,gti,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=gti
+volkswagen,jetta,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=jetta
+volkswagen,passat,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=passat
+volkswagen,tiguan,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=tiguan
+volkswagen,touareg,https://shop.canadadrives.ca/cars/bc?make=volkswagen&model=touareg
+volvo,xc40,https://shop.canadadrives.ca/cars/bc?make=volvo&model=xc40
+volvo,xc60,https://shop.canadadrives.ca/cars/bc?make=volvo&model=xc60
+volvo,xc90,https://shop.canadadrives.ca/cars/bc?make=volvo&model=xc90
+acura,mdx,https://shop.canadadrives.ca/cars/bc?make=acura&model=mdx
+acura,rdx,https://shop.canadadrives.ca/cars/bc?make=acura&model=rdx
+acura,tlx,https://shop.canadadrives.ca/cars/bc?make=acura&model=tlx
+alfa romeo,stelvio,https://shop.canadadrives.ca/cars/bc?make=alfa romeo&model=stelvio
+audi,a3,https://shop.canadadrives.ca/cars/bc?make=audi&model=a3
+audi,a4,https://shop.canadadrives.ca/cars/bc?make=audi&model=a4
+audi,a5,https://shop.canadadrives.ca/cars/bc?make=audi&model=a5
+audi,a6,https://shop.canadadrives.ca/cars/bc?make=audi&model=a6
+audi,a7,https://shop.canadadrives.ca/cars/bc?make=audi&model=a7
+audi,q3,https://shop.canadadrives.ca/cars/bc?make=audi&model=q3
+audi,q5,https://shop.canadadrives.ca/cars/bc?make=audi&model=q5
+audi,q7,https://shop.canadadrives.ca/cars/bc?make=audi&model=q7
+audi,s3,https://shop.canadadrives.ca/cars/bc?make=audi&model=s3
+audi,s4,https://shop.canadadrives.ca/cars/bc?make=audi&model=s4
+audi,s5,https://shop.canadadrives.ca/cars/bc?make=audi&model=s5
+audi,sq5,https://shop.canadadrives.ca/cars/bc?make=audi&model=sq5
+audi,tt,https://shop.canadadrives.ca/cars/bc?make=audi&model=tt
+bmw,2 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=2 series
+bmw,3 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=3 series
+bmw,4 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=4 series
+bmw,5 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=5 series
+bmw,6 series,https://shop.canadadrives.ca/cars/bc?make=bmw&model=6 series
+bmw,x1,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x1
+bmw,x2,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x2
+bmw,x3,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x3
+bmw,x4,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x4
+bmw,x5,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x5
+bmw,x6,https://shop.canadadrives.ca/cars/bc?make=bmw&model=x6
