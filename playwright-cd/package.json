@@ -13,5 +13,7 @@
   "description": "",
   "keywords": [],
   "license": "ISC",
-  "scripts": {}
+  "scripts": {
+    "start": "playwright test"
+  }
 }

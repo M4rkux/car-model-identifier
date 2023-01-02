@@ -2,8 +2,7 @@ import { test, expect } from '@playwright/test';
 import fs from 'fs';
 import readline from 'readline';
 
-const now = Date.now();
-const filename = `canadadrives-${now}`;
+const fileTimestamp = Date.now();
 const baseUrl = 'https://shop.canadadrives.ca';
 
 test('get links and save to csv', async ({ page }) => {
@@ -28,7 +27,7 @@ test('get links and save to csv', async ({ page }) => {
     for (let j = modelCounter; j < modelFilters.length; j++, modelCounter++) {
       const modelButton = await modelFilters[modelCounter].$('.make-label');
       const labelModel = (await modelButton?.innerText())?.toLowerCase().trim() || '';
-      saveTXT(`${labelMaker},${labelModel},${baseUrl}/cars/bc?make=${labelMaker}&model=${labelModel}`);
+      saveCSV(`filter-links-${fileTimestamp}.csv`, `${labelMaker},${labelModel},${baseUrl}/cars/bc?make=${labelMaker}&model=${labelModel}`);
     }
     await makerButtons[i].click();
   }
@@ -38,7 +37,7 @@ test('get links and save to csv', async ({ page }) => {
 
 test('saving links to file', async ({ page }) => {
 
-  const stream = fs.createReadStream(`./${filename}.txt`);
+  const stream = fs.createReadStream(`./filter-links-${fileTimestamp}.csv`);
   const rl = readline.createInterface({ input: stream });
   for await (const line of rl) {
     const [labelMaker, labelModel, url] = line.split(',');
@@ -46,21 +45,21 @@ test('saving links to file', async ({ page }) => {
     const links = await page.locator('.vehicle-card__link').all();
     for (let i = 0; i < links.length; i++) {
       const row = `${labelMaker}_${labelModel},${baseUrl}${await links[i].getAttribute('href')}`;
-      saveCSV(row);
+      saveCSV(`models-links-${fileTimestamp}.csv`, row);
     }
 
   }
 
-  console.log(`Links saved at ${filename}`);
+  console.log(`Links saved at models-links-${fileTimestamp}.csv}`);
   expect(1).toBe(1);
 });
 
 test('get images from csv and save them', async ({ page }) => {
 
-  const stream = fs.createReadStream(`./${filename}.csv`);
+  const stream = fs.createReadStream(`./models-links-${fileTimestamp}.csv`);
   const rl = readline.createInterface({ input: stream });
 
-  const imgFolder = `images/${now}`;
+  const imgFolder = `images/${fileTimestamp}`;
   if (!fs.existsSync(imgFolder)) {
     fs.mkdirSync(imgFolder, { recursive: true });
   }
@@ -110,10 +109,6 @@ test('get images from csv and save them', async ({ page }) => {
   expect(1).toBe(1);
 });
 
-function saveCSV(row: string) {
-  fs.appendFileSync(`./${filename}.csv`, `${row}\n`);
-}
-
-function saveTXT(row: string) {
-  fs.appendFileSync(`./${filename}.txt`, `${row}\n`);
+function saveCSV(filename: string, row: string) {
+  fs.appendFileSync(`./${filename}`, `${row}\n`);
 }
