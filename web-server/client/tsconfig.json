@@ -6,9 +6,9 @@
       "WebWorker"
     ],
     "outDir": "./dist/",
-    "module": "esnext",
+    "module": "ES6",
     "target": "ES6",
-    "moduleResolution": "nodenext",
+    "moduleResolution": "Classic",
     "strict": true,
     "downlevelIteration": true,
     "skipLibCheck": true,
