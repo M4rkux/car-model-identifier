@@ -7,7 +7,7 @@
     ],
     "outDir": "./dist/",
     "module": "esnext",
-    "target": "esnext",
+    "target": "ES6",
     "moduleResolution": "nodenext",
     "strict": true,
     "downlevelIteration": true,
