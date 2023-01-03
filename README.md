@@ -74,3 +74,28 @@ After this, you can start executing it step-by-step, the shurtcut to execute is 
 The last step that you need to do is execute this line `learn.export()`, this will generate a file `export.pkl`, this is your trained model that you need to import on your webserver.
 
 ## Webserver
+
+### Client
+The client side is made with Vanilla JS, and used `bun` as the runtime envionment.
+
+#### Install the dependencies
+```bash
+bun install
+```
+
+#### Run the project
+```bash
+bun start
+```
+
+## Server
+The server is a Flask project
+#### Install the dependencies
+```bash
+pip3 install -r requirements.txt
+```
+
+#### Run the project
+```bash
+python3 main.py
+```
