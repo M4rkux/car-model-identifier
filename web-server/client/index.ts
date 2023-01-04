@@ -17,7 +17,6 @@ window.onload = () => {
   
     file = fileInput.files[0];
     updateImagePreview();
-    predictModel();
   };
 
   document.onpaste = (event: ClipboardEvent) => getImageFromClipboard(event.clipboardData?.items);
@@ -27,12 +26,22 @@ window.onload = () => {
 
     const formData = new FormData();
     formData.append('image', file);
+    
+    spanMaker.innerText = '';
+    spanModel.innerText = '';
+    spanProbability.innerText = '';
 
-    const { maker, model, probability } = await (await fetch('http://localhost:5000', { method: 'POST', body: formData })).json() as BackendResponse;
+    try {
+      const { maker, model, probability } = await (await fetch('http://localhost:5000', { method: 'POST', body: formData })).json() as BackendResponse;
+  
+      spanMaker.innerText = maker;
+      spanModel.innerText = model;
+      spanProbability.innerText = probability;
+    } catch (e) {
+      console.error(e);
+    }
 
-    spanMaker.innerText = maker;
-    spanModel.innerText = model;
-    spanProbability.innerText = probability;
+    removeLoadingState();
   }
 
   function getImageFromClipboard(items: DataTransferItemList|undefined) {
@@ -49,7 +58,17 @@ window.onload = () => {
     const imgUrl = URL.createObjectURL(file);
     imgPreview.src = imgUrl;
     inputPlaceholder.innerText = 'Click to update the image';
+    inputPlaceholder.classList.add('has-item');
+    addLoadingState();
     predictModel();
+  }
+
+  function addLoadingState() {
+    fileInput.disabled = true;
+  }
+  
+  function removeLoadingState() {
+    fileInput.disabled = false;
   }
 }
 

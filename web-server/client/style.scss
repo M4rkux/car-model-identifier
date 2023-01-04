@@ -41,6 +41,10 @@ img {
 
   &:hover span {
     z-index: 4;
+
+    &.has-item {
+      opacity: 100;
+    }
   }
 
   &:hover .backdrop {
@@ -60,6 +64,10 @@ input {
   top: 0;
   opacity: 0;
   cursor: pointer;
+
+  &:disabled {
+    cursor: progress;
+  }
 }
 
 .content {
@@ -75,6 +83,10 @@ input {
 .text-hint {
   z-index: 1;
   font-size: x-large;
+
+  &.has-item {
+    opacity: 0;
+  }
 }
 
 li {
